@@ -1,1 +1,1 @@
-# basic-python
+# Face and eye detection 
